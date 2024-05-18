@@ -4,6 +4,7 @@ import { IoIosArrowForward } from "react-icons/io";
 import SocialLinksSide from "./SocialLinksSide";
 import { Link } from "react-scroll";
 
+
 function Home() {
 
     return (

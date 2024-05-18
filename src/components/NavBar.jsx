@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { FaBars, FaTimes, FaLaptopCode } from "react-icons/fa";
 import { Link } from "react-scroll";
 
+
 function NavBar() {
 
     const links = [

@@ -2,6 +2,7 @@ import React from "react";
 import { FaArrowUp } from "react-icons/fa6";
 import { Link } from "react-scroll";
 
+
 function Footer() {
     return (
         <>
