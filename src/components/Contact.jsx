@@ -22,7 +22,7 @@ function Contact() {
                             </div>
                         </div>
 
-                        <div className="w-[30%]">
+                        <div className="w-[30%] hidden md:block">
                             <div className=" w-[6rem] md:w-[22rem] md:h-[22rem]">
                                 <img className=" object-contain h-full w-full" src={c1} alt=" " />
                             </div>
