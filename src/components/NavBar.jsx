@@ -55,7 +55,11 @@ function NavBar() {
                             className="cursor-pointer mx-4 capitalize font-medium text-zinc-500 hover:scale-105 duration-200"
                             key={id}
                         >
-                            <Link to={link} smooth duration={500}>{link}</Link>
+                            <Link
+                                to={link}
+                                smooth duration={500}
+                                
+                            >{link}</Link>
                         </li>
                     ]
 
