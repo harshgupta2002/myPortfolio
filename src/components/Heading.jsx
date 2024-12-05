@@ -14,7 +14,7 @@ function Heading() {
     return (
         <h1 className="font-semibold text-4xl text-center md:text-left md:text-4xl lg:text-6xl">
             I am a <div><Typewriter
-                words={['Frontend Developer', 'Freelancer', 'UI/UX Designer']}
+                words={['FullStack Developer', 'Freelancer', 'Programmer']}
                 loop
                 cursor
                 cursorStyle='|'
